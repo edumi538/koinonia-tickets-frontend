@@ -35,7 +35,7 @@ export default function AuthForm() {
             </div>
         </CardContent>
         <CardFooter>
-          <Button className="w-full">Login</Button>
+          <Button className="w-full bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700">Login</Button>
         
         </CardFooter>  
         
