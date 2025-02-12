@@ -10,7 +10,7 @@ import {
   SidebarMenuItem,
   SidebarProvider,
   SidebarTrigger,
-} from "./components/ui/sidebar";
+} from "@/components/ui/sidebar";
 type Props = {};
 
 export default function Dashboard({}: Props) {
